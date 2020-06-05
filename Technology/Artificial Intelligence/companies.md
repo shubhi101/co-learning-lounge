@@ -18,6 +18,7 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 ***All the best for your job hunting 👍***
 
 ## Conversational AI
+- [Yellow Messenger](https://yellowmessenger.com/careers)
 - [haptik.ai](https://haptik.ai/careers/)
 - [avaamo](https://avaamo.ai/careers/)
 - [niki.ai](https://niki.ai/careers)
